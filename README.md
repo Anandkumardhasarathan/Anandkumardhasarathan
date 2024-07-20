@@ -7,7 +7,7 @@ Computer Science Engineering Student
 - 👨‍💻 I’m currently working on a project utilizing the MERN stack.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox?compose=new) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anandha-kumar-d/)
+<br />   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anandhakumarak75@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anandha-kumar-d/)
 - 😄 Pronouns: Techie
 
 ### I Code In
